@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@reifyhealth/salk": {
+      "signature": "e65aa2a49ecd85e9cb93076f5940d7ff",
+      "file": true
+    }
+  }
+}
